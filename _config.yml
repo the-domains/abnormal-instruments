@@ -1,0 +1,14 @@
+layout_spectrum: 0.13834952865727246
+typography_spectrum: 0.36118642473593354
+color:
+  brandStrength: 0.032990100560709834
+  lightness: 0.9000962707214057
+  saturation: 0.5497186724096537
+  rhythmicContrast: 0.5754395467229187
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: abnormal instruments
